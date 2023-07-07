@@ -8,11 +8,16 @@
 This is a simple application in Python for locating duplicates in a wordlist, merging them
 and sorting the final list in alphabetical order.
 
+You can see a sample of the application running below:
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](εικόνα_2023-07-07_222042804.png)
+
 
 
 ## Usage
 
 The wordlist should be imported in txt format and each word should be presented on a seperate line.
+
 
 
 ## License
