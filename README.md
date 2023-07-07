@@ -12,7 +12,7 @@ This tool and the consequent list can serve multiple purposes, such as cybersecu
 
 You can see a sample of the application running below:
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](εικόνα_2023-07-07_222042804.png)
+![Screenshot](εικόνα_2023-07-07_222042804.png)
 
 
 
