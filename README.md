@@ -6,7 +6,7 @@
 ## Description
 
 This is a simple application in Python for locating duplicates in a wordlist, merging them
-and sorting the final list in alphabetical order.
+and sorting the revised list in alphabetical order.
 
 This tool and the consequent list can serve multiple purposes, such as cybersecurity projects (dictionary attacks etc.) 
 
