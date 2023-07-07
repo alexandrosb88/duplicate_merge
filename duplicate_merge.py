@@ -59,13 +59,13 @@ wordlist = '\n'.join(wordlist)
 
 #Export the txt file and print final message
 
-file = open(outputFile, "w")
+file = open(outputFile + ".txt", "w")
 file.write(wordlist)
 file.close()
 
 print("\n")
 print("\n")
-print("%d duplicates were merged in file: %s" % (counter,outputFile))
+print("%d duplicates were merged in file: %s.txt" % (counter,outputFile))
 print("\n")
 print("The original list consisted of %d items." % counter_initial)
 print("The revised list comprises a total of %d items." % counter_final)
